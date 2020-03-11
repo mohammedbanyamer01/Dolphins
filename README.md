@@ -35,3 +35,4 @@ How To Install
 4- cd + directory name 
 5- pip install -r req.txt
 6- python3 main.py
+
